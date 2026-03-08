@@ -1,17 +1,17 @@
 # Salut ! Moi c'est Rivaldo 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Étudiant+Informatique+Créatif;Développeur+Polyvalent;Passionné+par+le+Code+et+le+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Étudiant+Informatique+Créatif;Développeur+Polyvalent;Passionné+par+le+Code+et+le+Design.&repeat=false" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 À propos de moi
+### À propos de moi
 Actuellement en formation d'informatique, je cultive un profil **polyvalent et créatif**. J'aime allier la rigueur technique du développement à une approche esthétique et innovante pour concevoir des solutions complètes et attrayantes.
 
-- 🎓 **En formation :** Apprentissage global et transversal des métiers du numérique.
-- 🎨 **Esprit Créatif :** Passionné par le design visuel et l'expérience utilisateur.
-- 💡 **Profil :** Curieux et adaptable, je transforme des concepts complexes en interfaces intuitives.
+- **En formation :** Apprentissage global et transversal des métiers du numérique.
+- **Esprit Créatif :** Passionné par le design visuel et l'expérience utilisateur.
+- **Profil :** Curieux et adaptable, je transforme des concepts complexes en interfaces intuitives.
 
 ---
 
@@ -26,12 +26,12 @@ Actuellement en formation d'informatique, je cultive un profil **polyvalent et c
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### Mes Statistiques GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rivaldjr39&show_icons=true&theme=tokyonight" alt="Stats de Rivaldo" />
 </p>
 
 ---
 
-### 📫 Me contacter
+### Me contacter
 - **Email :** [rivaldoako25@gmail.com](mailto:rivaldoako25@gmail.com)
