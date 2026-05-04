@@ -96,17 +96,13 @@
 
 ---
 
-## 📬 Me contacter
+## 🤝 Me contacter
 
 <div align="center">
 
-<a href="mailto:rivaldoako25@gmail.com">
-  <img src="https://img.shields.io/badge/-rivaldoako25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
-
-<a href="https://github.com/rivaldjr39">
-  <img src="https://img.shields.io/badge/-rivaldjr39-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
-</a>
+| 📧 Email | 🐙 GitHub |
+|:---:|:---:|
+| [rivaldoako25@gmail.com](mailto:rivaldoako25@gmail.com) | [@rivaldjr39](https://github.com/rivaldjr39) |
 
 </div>
 
