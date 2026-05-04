@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Étudiant+Informatique+%26+Développeur;%F0%9F%8E%A8+UI%2FUX+%7C+Design+Créatif;%F0%9F%97%84%EF%B8%8F+Full+Stack+%7C+Back+%7C+Base+de+Données;%F0%9F%9A%80+Toujours+en+train+d'apprendre..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Etudiant+Informatique+%26+Developpeur;UI%2FUX+%7C+Design+Creatif;Full+Stack+%7C+Back+%7C+Base+de+Donnees;Toujours+en+train+d%27apprendre..." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,24 +18,21 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+##  À propos de moi
 
 ```typescript
-const rivaldo = {
   formation  : "Informatique — Parcours transversal & créatif",
   localisation: "Madagascar 🇲🇬",
   passion    : ["Développement", "UI/UX Design", "Résolution de problèmes"],
   approche   : "Allier rigueur technique et sensibilité esthétique",
-  actuellement: "En apprentissage continu 🚀",
-  fun_fact   : "Je transforme du café en code ☕ → 💻"
-};
+  actuellement: "En apprentissage continu ",
 ```
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
-### 🔷 Développement Logiciel
+###  Développement Logiciel
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -44,7 +41,7 @@ const rivaldo = {
   <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </p>
 
-### 🌐 Web & Frameworks
+###  Web & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -54,7 +51,7 @@ const rivaldo = {
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### 🗄️ Bases de Données & SIG
+###  Bases de Données & SIG
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -63,7 +60,7 @@ const rivaldo = {
   <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🎨 Design & UI
+###  Design & UI
 <p>
   <img src="https://img.shields.io/badge/Java_Swing-F89820?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI%2FUX_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -71,7 +68,7 @@ const rivaldo = {
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 <div align="center">
 
@@ -88,7 +85,7 @@ const rivaldo = {
 
 ---
 
-## 🏆 Trophées GitHub
+##  Trophées GitHub
 
 <div align="center">
 
@@ -98,7 +95,7 @@ const rivaldo = {
 
 ---
 
-## 📬 Me contacter
+##  Me contacter
 
 <div align="center">
 
@@ -113,6 +110,6 @@ const rivaldo = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-*"Le code est de la poésie qui s'exécute."* ✨
+*"Le code est de la poésie qui s'exécute."* 
 
 </div>
