@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER ANIMÉ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rivaldo%20AKO&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Développeur%20Polyvalent%20%7C%20Créatif%20%7C%20Curieux&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rivaldo%20AKO&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Architecte%20du%20Code%20%7C%20Crafteur%20d%27Interfaces%20%7C%20Bâtisseur%20de%20Solutions&descAlignY=58&descSize=16" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -107,8 +107,7 @@
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 *"Le code est de la poésie qui s'exécute."* 
 
