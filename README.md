@@ -86,11 +86,11 @@
 
 ---
 
-##  Trophées GitHub
+##  Compétences & Niveaux
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rivaldjr39&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://skillicons.dev/icons?i=java,cs,c,python,js,php,angular,spring,nodejs,mysql,postgres,git&theme=dark&perline=6)
 
 </div>
 
