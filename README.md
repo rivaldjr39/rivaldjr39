@@ -1,5 +1,3 @@
-# Salut ! Moi c'est Rivaldo 👋
-
 <div align="center">
 
 <!-- BANNER ANIMÉ -->
