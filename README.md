@@ -1,37 +1,120 @@
 # Salut ! Moi c'est Rivaldo 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Étudiant+Informatique+Créatif;Développeur+Polyvalent;Passionné+par+le+Code+et+le+Design.&repeat=false" alt="Typing SVG" />
+<div align="center">
+
+<!-- BANNER ANIMÉ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rivaldo%20AKO&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Développeur%20Polyvalent%20%7C%20Créatif%20%7C%20Curieux&descAlignY=58&descSize=18" />
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Étudiant+Informatique+%26+Développeur;%F0%9F%8E%A8+UI%2FUX+%7C+Design+Créatif;%F0%9F%97%84%EF%B8%8F+Full+Stack+%7C+Back+%7C+Base+de+Données;%F0%9F%9A%80+Toujours+en+train+d'apprendre..." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- BADGES PROFIL -->
+![Profile Views](https://komarev.com/ghpvc/?username=rivaldjr39&color=36BCF7&style=for-the-badge&label=VISITEURS)
+[![GitHub followers](https://img.shields.io/github/followers/rivaldjr39?style=for-the-badge&color=36BCF7&labelColor=1a1b27&label=FOLLOWERS)](https://github.com/rivaldjr39)
+
+</div>
+
+---
+
+## 👨‍💻 À propos de moi
+
+```typescript
+const rivaldo = {
+  formation  : "Informatique — Parcours transversal & créatif",
+  localisation: "Madagascar 🇲🇬",
+  passion    : ["Développement", "UI/UX Design", "Résolution de problèmes"],
+  approche   : "Allier rigueur technique et sensibilité esthétique",
+  actuellement: "En apprentissage continu 🚀",
+  fun_fact   : "Je transforme du café en code ☕ → 💻"
+};
+```
+
+---
+
+## 🛠️ Stack Technique
+
+### 🔷 Développement Logiciel
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
+
+### 🌐 Web & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+### 🗄️ Bases de Données & SIG
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🎨 Design & UI
+<p>
+  <img src="https://img.shields.io/badge/Java_Swing-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-### À propos de moi
-Actuellement en formation d'informatique, je cultive un profil **polyvalent et créatif**. J'aime allier la rigueur technique du développement à une approche esthétique et innovante pour concevoir des solutions complètes et attrayantes.
+## 📊 Statistiques GitHub
 
-- **En formation :** Apprentissage global et transversal des métiers du numérique.
-- **Esprit Créatif :** Passionné par le design visuel et l'expérience utilisateur.
-- **Profil :** Curieux et adaptable, je transforme des concepts complexes en interfaces intuitives.
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivaldjr39&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldjr39&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff"/>
 
-### 🛠 Stack Technique (Multi-langages)
+</div>
 
-| Domaine | Technologies maîtrisées |
-| :--- | :--- |
-| **Développement Logiciel** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![VB](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat&logo=visual-studio&logoColor=white) |
-| **Web & Scripting** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) |
-| **Gestion de Données** | ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
-| **Design & UI** | ![JavaSwing](https://img.shields.io/badge/Java-Swing-orange) ![UI/UX](https://img.shields.io/badge/Creative-Design-pink) |
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rivaldjr39&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### Mes Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivaldjr39&show_icons=true&theme=tokyonight" alt="Stats de Rivaldo" />
-</p>
+## 🏆 Trophées GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rivaldjr39&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-### Me contacter
-- **Email :** [rivaldoako25@gmail.com](mailto:rivaldoako25@gmail.com)
+## 📬 Me contacter
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivaldoako25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rivaldjr39)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+*"Le code est de la poésie qui s'exécute."* ✨
+
+</div>
