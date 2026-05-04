@@ -105,7 +105,6 @@
 | [rivaldoako25@gmail.com](mailto:rivaldoako25@gmail.com) | [@rivaldjr39](https://github.com/rivaldjr39) |
 
 </div>
----
 
 <div align="center">
 
