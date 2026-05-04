@@ -96,19 +96,13 @@
 
 ---
 
-## 💌 Envie de collaborer ?
+##  Me contacter
 
 <div align="center">
 
-<a href="mailto:rivaldoako25@gmail.com">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=EA4335&height=40&text=📧%20rivaldoako25@gmail.com&fontSize=15&fontColor=white&width=350"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/rivaldjr39">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&text=🐙%20github.com/rivaldjr39&fontSize=15&fontColor=white&width=300"/>
-</a>
+| 📧 Email | 🐙 GitHub |
+|:---:|:---:|
+| [rivaldoako25@gmail.com](mailto:rivaldoako25@gmail.com) | [@rivaldjr39](https://github.com/rivaldjr39) |
 
 </div>
 ---
