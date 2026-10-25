@@ -1,6 +1,6 @@
 # Rivaldo AKO
 
-**Étudiant en informatique · Développeur Full Stack · UI/UX**
+**Étudiant en informatique**
 Madagascar
 
 [![Email](https://img.shields.io/badge/Email-rivaldoako25@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:rivaldoako25@gmail.com)
