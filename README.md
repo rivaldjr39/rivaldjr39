@@ -1,114 +1,67 @@
-<div align="center">
+# Rivaldo AKO
 
-<!-- BANNER ANIMÉ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rivaldo%20AKO&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Architecte%20du%20Code%20%7C%20Crafteur%20d%27Interfaces%20%7C%20Bâtisseur%20de%20Solutions&descAlignY=58&descSize=16" />
+**Étudiant en informatique UI/UX**
+Madagascar
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Etudiant+Informatique+%26+Developpeur;UI%2FUX+%7C+Design+Creatif;Full+Stack+%7C+Back+%7C+Base+de+Donnees;Toujours+en+train+d%27apprendre..." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- BADGES PROFIL -->
-![Profile Views](https://komarev.com/ghpvc/?username=rivaldjr39&color=36BCF7&style=for-the-badge&label=VISITEURS)
-[![GitHub followers](https://img.shields.io/github/followers/rivaldjr39?style=for-the-badge&color=36BCF7&labelColor=1a1b27&label=FOLLOWERS)](https://github.com/rivaldjr39)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-rivaldoako25@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:rivaldoako25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rivaldjr39-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rivaldjr39)
 
 ---
 
-##  À propos de moi
+## À propos
 
-```typescript
-  formation  : "Informatique — Parcours transversal & créatif",
-  localisation: "Madagascar 🇲🇬",
-  passion    : ["Développement", "UI/UX Design", "Résolution de problèmes"],
-  approche   : "Allier rigueur technique et sensibilité esthétique",
-  actuellement: "En apprentissage continu ",
-```
+Étudiant en informatique, je conçois des applications web et logicielles en alliant rigueur technique et attention portée à l'expérience utilisateur. Mon parcours couvre le développement back-end, les interfaces, les bases de données et les systèmes d'information géographique (SIG).
+
+Je m'intéresse particulièrement à :
+
+- la conception d'applications web full stack ;
+- la modélisation et l'administration de bases de données relationnelles et spatiales ;
+- le design d'interfaces claires, cohérentes et accessibles ;
+- la résolution de problèmes et l'amélioration continue de la qualité du code.
 
 ---
 
-##  Stack Technique
+## Compétences techniques
 
-###  Développement Logiciel
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-</p>
+| Domaine | Technologies |
+|---|---|
+| **Langages** | Java, C#, C, Python, JavaScript, PHP, Visual Basic |
+| **Frameworks web** | Angular, Spring MVC, CodeIgniter, Node.js |
+| **Bases de données** | PostgreSQL / PostGIS, SQL Server, Oracle, MySQL |
+| **Interfaces** | Java Swing, conception UI/UX |
+| **Outils** | Git, GitHub |
 
-###  Web & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-###  Bases de Données & SIG
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-###  Design & UI
-<p>
-  <img src="https://img.shields.io/badge/Java_Swing-F89820?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,c,python,js,php,angular,spring,nodejs,postgres,mysql,git&theme=dark&perline=12" alt="Technologies" />
 </p>
 
 ---
 
-##  Statistiques GitHub
+## Projets
 
-<div align="center">
+<!-- Ajoutez ici vos projets les plus représentatifs (3 à 6 maximum) -->
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rivaldjr39&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rivaldjr39&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rivaldjr39&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7)](https://git.io/streak-stats)
-
-</div>
+| Projet | Description | Technologies |
+|---|---|---|
+| [Nom du projet](https://github.com/rivaldjr39/nom-du-depot) | Description courte : problème résolu et résultat | Spring MVC, PostgreSQL |
+| [Nom du projet](https://github.com/rivaldjr39/nom-du-depot) | Description courte : problème résolu et résultat | Angular, Node.js |
+| [Nom du projet](https://github.com/rivaldjr39/nom-du-depot) | Description courte : problème résolu et résultat | PostGIS, Python |
 
 ---
 
-##  Compétences & Niveaux
+## Statistiques GitHub
 
-<div align="center">
-
-![](https://skillicons.dev/icons?i=java,cs,c,python,js,php,angular,spring,nodejs,mysql,postgres,git&theme=dark&perline=6)
-
-</div>
+<p>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rivaldjr39&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="Statistiques GitHub" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rivaldjr39&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" alt="Langages les plus utilisés" />
+</p>
 
 ---
 
-##  Me contacter
+## Contact
 
-<div align="center">
+- **Email** : [rivaldoako25@gmail.com](mailto:rivaldoako25@gmail.com)
+- **GitHub** : [@rivaldjr39](https://github.com/rivaldjr39)
 
-| 📧 Email | 🐙 GitHub |
-|:---:|:---:|
-| [rivaldoako25@gmail.com](mailto:rivaldoako25@gmail.com) | [@rivaldjr39](https://github.com/rivaldjr39) |
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-*"Le code est de la poésie qui s'exécute."* 
-
+Ouvert aux stages, collaborations et projets open source.
 </div>
