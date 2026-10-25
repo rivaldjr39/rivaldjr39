@@ -25,11 +25,11 @@ Je m'intéresse particulièrement à :
 
 | Domaine | Technologies |
 |---|---|
-| **Langages** | Java, C#, C, Python, JavaScript, PHP, Visual Basic |
-| **Frameworks web** | Angular, Spring MVC, CodeIgniter, Node.js |
-| **Bases de données** | PostgreSQL / PostGIS, SQL Server, Oracle, MySQL |
+| **Langages** | Java, C#, C,C++, Python, JavaScript, PHP, Visual Basic |
+| **Frameworks web** | Angular, Spring MVC,SpringBoot, CodeIgniter, Node.js |
+| **Bases de données** | PostgreSQL / PostGIS, SQL Server, Oracle, MySQL, SQLite3 |
 | **Interfaces** | Java Swing, conception UI/UX |
-| **Outils** | Git, GitHub |
+| **Outils** | Git, GitHub , GitLab |
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,c,python,js,php,angular,spring,nodejs,postgres,mysql,git&theme=dark&perline=12" alt="Technologies" />
