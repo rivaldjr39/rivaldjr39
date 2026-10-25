@@ -1,6 +1,6 @@
 # Rivaldo AKO
 
-**Étudiant en informatique UI/UX**
+**Étudiant en informatique · Développeur Full Stack · UI/UX**
 Madagascar
 
 [![Email](https://img.shields.io/badge/Email-rivaldoako25@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:rivaldoako25@gmail.com)
@@ -34,18 +34,6 @@ Je m'intéresse particulièrement à :
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,c,python,js,php,angular,spring,nodejs,postgres,mysql,git&theme=dark&perline=12" alt="Technologies" />
 </p>
-
----
-
-## Projets
-
-<!-- Ajoutez ici vos projets les plus représentatifs (3 à 6 maximum) -->
-
-| Projet | Description | Technologies |
-|---|---|---|
-| [Nom du projet](https://github.com/rivaldjr39/nom-du-depot) | Description courte : problème résolu et résultat | Spring MVC, PostgreSQL |
-| [Nom du projet](https://github.com/rivaldjr39/nom-du-depot) | Description courte : problème résolu et résultat | Angular, Node.js |
-| [Nom du projet](https://github.com/rivaldjr39/nom-du-depot) | Description courte : problème résolu et résultat | PostGIS, Python |
 
 ---
 
